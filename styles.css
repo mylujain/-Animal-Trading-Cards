@@ -1,0 +1,29 @@
+img {
+  width:300px;
+}
+
+body{ position: fixed;
+  width:300px;
+   border-width: 1px;
+     border-style: groove;
+    border-color: gray;
+  padding: 10px;
+
+
+}
+
+.interest{
+  font-style: italic;
+}
+
+span{
+  font-weight: bold;
+
+}
+
+ul{ list-style-type: none;}
+
+.allText { border-width: 1px;
+     border-style: groove;
+    border-color: gray;
+  padding: 10px;}
